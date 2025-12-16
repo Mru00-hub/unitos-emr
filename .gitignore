@@ -1,0 +1,17 @@
+# Environment
+.env
+*.env
+venv/
+env/
+__pycache__/
+*.pyc
+
+# GCP & Secrets
+*.json
+credentials/
+service-account-*.json
+
+# Logs & OS
+*.log
+logs/
+.DS_Store
